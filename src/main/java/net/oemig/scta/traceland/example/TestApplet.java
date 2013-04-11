@@ -1,4 +1,4 @@
-package net.oemig.scta.traces.test;
+package net.oemig.scta.traceland.example;
 
 import org.jfree.chart.JFreeChart;
 import org.jfree.chart.ChartFactory;

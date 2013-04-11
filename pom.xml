@@ -21,7 +21,7 @@
    <dependency>
 	<groupId>net.oemig.scta</groupId>
 	<artifactId>scta-jfreechart-extension</artifactId>
-	<version>1.0</version>
+	<version>0.1</version>
     </dependency>
     <dependency>
       <groupId>junit</groupId>
